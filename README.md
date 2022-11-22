@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @logger421
+- 👀 I’m interested in backend especially in Java ☕
+- 🌱 I’m currently learning python 🐍 and basics of web development.
+- 🎓 3rd year Applied Computer Science Student at Jagiellonian University of Cracow.
