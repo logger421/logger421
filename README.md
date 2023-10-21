@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @logger421
-- 👀 I’m interested in backend especially in Java ☕
-- 🌱 I’m currently learning python 🐍 and basics of web development.
-- 🎓 3rd year Applied Computer Science Student at Jagiellonian University of Cracow.
+- 👋 Hi, my name is Wojtek and I'm a Software Engineer.
+- 👀 My main interests are focused around Java ecosystem, but I'm also familiar with devops stuff. 
+- 🎓 Bachelors in Applied Computer Science at Jagiellonian University of Cracow.
+- 🎓 Masters in Applied Computer Science - in progress.
